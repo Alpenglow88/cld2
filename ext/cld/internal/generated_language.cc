@@ -32,7 +32,7 @@ extern const char* const kLanguageToName[kLanguageToNameSize] = {
   "FINNISH",               // 3 fi
   "FRENCH",                // 4 fr
   "GERMAN",                // 5 de
-  "HEBREW",                // 6 iw
+  "HEBREW",                // 6 he
   "ITALIAN",               // 7 it
   "Japanese",              // 8 ja
   "Korean",                // 9 ko
@@ -651,7 +651,7 @@ extern const char* const kLanguageToCode[kLanguageToCodeSize] = {
   "fi",    // 3 FINNISH
   "fr",    // 4 FRENCH
   "de",    // 5 GERMAN
-  "iw",    // 6 HEBREW
+  "he",    // 6 HEBREW
   "it",    // 7 ITALIAN
   "ja",    // 8 Japanese
   "ko",    // 9 Korean
@@ -1270,7 +1270,7 @@ extern const char* const kLanguageToCName[kLanguageToCNameSize] = {
   "FINNISH",               // 3 fi
   "FRENCH",                // 4 fr
   "GERMAN",                // 5 de
-  "HEBREW",                // 6 iw
+  "HEBREW",                // 6 he
   "ITALIAN",               // 7 it
   "JAPANESE",              // 8 ja
   "KOREAN",                // 9 ko
@@ -1890,7 +1890,7 @@ extern const FourScripts kLanguageToScripts[kLanguageToScriptsSize] = {
   {ULScript_Latin, None, None, None, },  // 3 fi
   {ULScript_Latin, None, None, None, },  // 4 fr
   {ULScript_Latin, None, None, None, },  // 5 de
-  {ULScript_Hebrew, None, None, None, },  // 6 iw
+  {ULScript_Hebrew, None, None, None, },  // 6 he
   {ULScript_Latin, None, None, None, },  // 7 it
   {ULScript_Hani, None, None, None, },  // 8 ja
   {ULScript_Hani, None, None, None, },  // 9 ko
@@ -4126,7 +4126,6 @@ extern const CharIntPair kNameToLanguage[kNameToLanguageSize] = {
   {"HAUSA",                138},  // ha
   {"HAWAIIAN",             164},  // haw
   {"HEBREW",                 6},  // he
-  {"HEBREW",                 6},  // iw
   {"HINDI",                 35},  // hi
   {"HMONG",                168},  // hmn
   {"HUNGARIAN",             23},  // hu

@@ -108,7 +108,7 @@ typedef enum {
   TIGRINYA                     = 76,  // ti
   PERSIAN                      = 77,  // fa
   BOSNIAN                      = 78,  // bs
-  SINHALESE                    = 79,  // si
+  SINHALA                    = 79,  // si
   NORWEGIAN_N                  = 80,  // nn
   X_81                         = 81,  //
   X_82                         = 82,  //

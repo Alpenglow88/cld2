@@ -105,7 +105,7 @@ extern const char* const kLanguageToName[kLanguageToNameSize] = {
   "TIGRINYA",              // 76 ti
   "PERSIAN",               // 77 fa
   "BOSNIAN",               // 78 bs
-  "SINHALESE",             // 79 si
+  "SINHALA",             // 79 si
   "NORWEGIAN_N",           // 80 nn
   "81",                    // 81
   "82",                    // 82
@@ -724,7 +724,7 @@ extern const char* const kLanguageToCode[kLanguageToCodeSize] = {
   "ti",    // 76 TIGRINYA
   "fa",    // 77 PERSIAN
   "bs",    // 78 BOSNIAN
-  "si",    // 79 SINHALESE
+  "si",    // 79 SINHALA
   "nn",    // 80 NORWEGIAN_N
   "",      // 81 81
   "",      // 82 82
@@ -1343,7 +1343,7 @@ extern const char* const kLanguageToCName[kLanguageToCNameSize] = {
   "TIGRINYA",              // 76 ti
   "PERSIAN",               // 77 fa
   "BOSNIAN",               // 78 bs
-  "SINHALESE",             // 79 si
+  "SINHALA",             // 79 si
   "NORWEGIAN_N",           // 80 nn
   "X_81",                  // 81
   "X_82",                  // 82
@@ -3314,7 +3314,7 @@ extern const uint16 kPLangToLanguageOthr[256] = {
   GEORGIAN,              // 31
   TIGRINYA,              // 32
   PERSIAN,               // 33
-  SINHALESE,             // 34
+  SINHALA,             // 34
   KYRGYZ,                // 35
   YIDDISH,               // 36
   MONGOLIAN,             // 37
@@ -4215,7 +4215,7 @@ extern const CharIntPair kNameToLanguage[kNameToLanguageSize] = {
   {"SESOTHO",               86},  // st
   {"SHONA",                119},  // sn
   {"SINDHI",                99},  // sd
-  {"SINHALESE",             79},  // si
+  {"SINHALA",             79},  // si
   {"SISWANT",              151},  // ss
   {"SLOVAK",                68},  // sk
   {"SLOVENIAN",             63},  // sl

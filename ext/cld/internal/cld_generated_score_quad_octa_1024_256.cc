@@ -136,7 +136,7 @@ extern const short kAvgDeltaOctaScore[614 * 4] = {
      0,    0,    0,  469,  // 76 TIGRINYA ti
      0,    0,  899,    0,  // 77 PERSIAN fa
      0,    0,    0,    0,  // 78 BOSNIAN bs
-     0,    0,    0, 1024,  // 79 SINHALESE si
+     0,    0,    0, 1024,  // 79 SINHALA si
    840,    0,    0,    0,  // 80 NORWEGIAN_N nn
      0,    0,    0,    0,  // 81 81
      0,    0,    0,    0,  // 82 82

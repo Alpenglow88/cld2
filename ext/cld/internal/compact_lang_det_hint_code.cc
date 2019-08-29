@@ -274,11 +274,11 @@ static const LangTagLookup kCLDLangTagsHintTable1[kCLDTable1Size] = {
   {"shift-jis", "ja", JAPANESE + W10, 0},   // Japanese encoding
   {"shift-js", "ja", JAPANESE + W10, 0},    // Japanese encoding
   {"shona", "sn", SHONA + W10, 0},
-  {"si-lk", "si", SINHALESE + W10, 0},      // 1:2 Sri Lanka, not ambiguous
+  {"si-lk", "si", SINHALA + W10, 0},      // 1:2 Sri Lanka, not ambiguous
   {"si-si", "sl", SLOVENIAN + W10, 0},      // 1:2 Slovenia, not ambiguous
   {"si-sl", "sl", SLOVENIAN + W10, 0},      // 1:2 Slovenia, not ambiguous
   {"sindhi", "sd", SINDHI + W10, 0},
-  {"sinhalese", "si", SINHALESE + W10, 0},
+  {"sinhala", "si", SINHALA + W10, 0},
   {"siswant", "ss", SISWANT + W10, 0},
   {"sit-np", "sit", LIMBU + W10, 0},
   {"slovak", "sk", SLOVAK + W10, CZECH - W4},
@@ -564,7 +564,7 @@ static const LangTagLookup kCLDLangTagsHintTable2[kCLDTable2Size] = {
   {"sd", "sd", SINDHI + W10, 0},
   {"se", "sv", SWEDISH + W10, 0},
   {"sg", "sg", SANGO + W10, 0},
-  {"si", "si,sl", SINHALESE + W10, SLOVENIAN + W10},  // 1:2 Sinhalese, Slovinia
+  {"si", "si,sl", SINHALA + W10, SLOVENIAN + W10},  // 1:2 Sinhala, Slovinia
   {"sk", "sk", SLOVAK + W10, CZECH - W4},
   {"sl", "sl", SLOVENIAN + W10, 0},
   {"slo", "sl", SLOVENIAN + W10, 0},
@@ -780,7 +780,7 @@ static const TLDLookup kCLDTLDHintTable[kCLDTable3Size] = {
   {"lb", ARABIC + W4, FRENCH + W4},
   // {"lc", 0, 0},
   {"li", GERMAN + W4, 0},
-  {"lk", SINHALESE + W4, 0},
+  {"lk", SINHALA + W4, 0},
   // {"lr", 0, 0},
   {"ls", SESOTHO + W4, 0},
   {"lt", LITHUANIAN + W4, 0},

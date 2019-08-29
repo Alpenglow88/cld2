@@ -472,7 +472,7 @@ extern const Language kULScriptToDefaultLang[kULScriptToDefaultLangSize] = {
   TELUGU,                // 15 Telu RTypeOne
   KANNADA,               // 16 Knda RTypeOne
   MALAYALAM,             // 17 Mlym RTypeOne
-  SINHALESE,             // 18 Sinh RTypeOne
+  SINHALA,             // 18 Sinh RTypeOne
   THAI,                  // 19 Thai RTypeOne
   LOATIAN,              // 20 Laoo RTypeOne
   TIBETAN,               // 21 Tibt RTypeMany

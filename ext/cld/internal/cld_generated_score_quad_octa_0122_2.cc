@@ -118,7 +118,7 @@ extern const short kAvgDeltaOctaScore[kAvgDeltaOctaScoreSize] = {
      0,    0,    0,    0,  // 95 KURDISH ku
      0,    0,    0, 1024,  // 96 MONGOLIAN mn
      0,    0,    0, 1024,  // 97 ARMENIAN hy
-     0,    0,    0, 1024,  // 98 LAOTHIAN lo
+     0,    0,    0, 1024,  // 98 LOATIAN lo
      0,    0,    0,    0,  // 99 SINDHI sd
      0,    0,    0,    0,  // 100 RHAETO_ROMANCE rm
   1179,    0,    0,    0,  // 101 AFRIKAANS af

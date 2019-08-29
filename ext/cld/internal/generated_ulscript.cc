@@ -474,7 +474,7 @@ extern const Language kULScriptToDefaultLang[kULScriptToDefaultLangSize] = {
   MALAYALAM,             // 17 Mlym RTypeOne
   SINHALESE,             // 18 Sinh RTypeOne
   THAI,                  // 19 Thai RTypeOne
-  LAOTHIAN,              // 20 Laoo RTypeOne
+  LOATIAN,              // 20 Laoo RTypeOne
   TIBETAN,               // 21 Tibt RTypeMany
   BURMESE,               // 22 Mymr RTypeOne
   GEORGIAN,              // 23 Geor RTypeOne

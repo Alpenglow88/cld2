@@ -124,7 +124,7 @@ extern const char* const kLanguageToName[kLanguageToNameSize] = {
   "KURDISH",               // 95 ku
   "MONGOLIAN",             // 96 mn
   "ARMENIAN",              // 97 hy
-  "LAOTHIAN",              // 98 lo
+  "LOATIAN",              // 98 lo
   "SINDHI",                // 99 sd
   "RHAETO_ROMANCE",        // 100 rm
   "AFRIKAANS",             // 101 af
@@ -743,7 +743,7 @@ extern const char* const kLanguageToCode[kLanguageToCodeSize] = {
   "ku",    // 95 KURDISH
   "mn",    // 96 MONGOLIAN
   "hy",    // 97 ARMENIAN
-  "lo",    // 98 LAOTHIAN
+  "lo",    // 98 LOATIAN
   "sd",    // 99 SINDHI
   "rm",    // 100 RHAETO_ROMANCE
   "af",    // 101 AFRIKAANS
@@ -1362,7 +1362,7 @@ extern const char* const kLanguageToCName[kLanguageToCNameSize] = {
   "KURDISH",               // 95 ku
   "MONGOLIAN",             // 96 mn
   "ARMENIAN",              // 97 hy
-  "LAOTHIAN",              // 98 lo
+  "LOATIAN",              // 98 lo
   "SINDHI",                // 99 sd
   "RHAETO_ROMANCE",        // 100 rm
   "AFRIKAANS",             // 101 af
@@ -3319,7 +3319,7 @@ extern const uint16 kPLangToLanguageOthr[256] = {
   YIDDISH,               // 36
   MONGOLIAN,             // 37
   ARMENIAN,              // 38
-  LAOTHIAN,              // 39
+  LOATIAN,              // 39
   SINDHI,                // 40
   KHMER,                 // 41
   TIBETAN,               // 42
@@ -4151,7 +4151,7 @@ extern const CharIntPair kNameToLanguage[kNameToLanguageSize] = {
   {"KURDISH",               95},  // ku
   {"KYRGYZ",                88},  // ky
   {"Korean",                 9},  // ko
-  {"LAOTHIAN",              98},  // lo
+  {"LOATIAN",              98},  // lo
   {"LATIN",                 39},  // la
   {"LATVIAN",               20},  // lv
   {"LIMBU",                109},  // sit-Limb
@@ -4304,7 +4304,7 @@ extern const CharIntPair kNameToLanguage[kNameToLanguageSize] = {
   {"X_Kayah_Li",           583},  // xx-Kali
   {"X_Kharoshthi",         572},  // xx-Khar
   {"X_Khmer",              542},  // xx-Khmr
-  {"X_Lao",                532},  // xx-Laoo
+  {"X_LOATIAN",                532},  // xx-Laoo
   {"X_Latin",              513},  // xx-Latn
   {"X_Lepcha",             579},  // xx-Lepc
   {"X_Limbu",              557},  // xx-Limb

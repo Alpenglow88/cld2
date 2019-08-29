@@ -127,7 +127,7 @@ typedef enum {
   KURDISH                      = 95,  // ku
   MONGOLIAN                    = 96,  // mn
   ARMENIAN                     = 97,  // hy
-  LAOTHIAN                     = 98,  // lo
+  LOATIAN                     = 98,  // lo
   SINDHI                       = 99,  // sd
   RHAETO_ROMANCE               = 100,  // rm
   AFRIKAANS                    = 101,  // af

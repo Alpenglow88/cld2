@@ -207,7 +207,7 @@ static const LangTagLookup kCLDLangTagsHintTable1[kCLDTable1Size] = {
   {"kurdish", "ku", KURDISH + W10, 0},
   {"kyrgyz", "ky", KYRGYZ + W10, 0},
 
-  {"laothian", "lo", LAOTHIAN + W10, 0},
+  {"loatian", "lo", LOATIAN + W10, 0},
   {"latin", "la", LATIN + W10, 0},
   {"latvian", "lv", LATVIAN + W10, 0},
   {"limbu", "sit", LIMBU + W10, 0},
@@ -498,13 +498,13 @@ static const LangTagLookup kCLDLangTagsHintTable2[kCLDTable2Size] = {
   {"ky", "ky", KYRGYZ + W10, 0},
   {"kz", "kk", KAZAKH + W10, 0},            // Kazakhstan
   {"la", "la", LATIN + W10, 0},
-  {"lao", "lo", LAOTHIAN + W10, 0},         // Laos
+  {"lao", "lo", LOATIAN + W10, 0},         // Laos
 
   {"lb", "lb", LUXEMBOURGISH + W10, 0},
   {"lg", "lg", GANDA + W10, 0},
   {"lit", "lt", LITHUANIAN + W10, 0},
   {"ln", "ln", LINGALA + W10, 0},
-  {"lo", "lo", LAOTHIAN + W10, 0},
+  {"lo", "lo", LOATIAN + W10, 0},
   {"lt", "lt", LITHUANIAN + W10, 0},
   {"ltu", "lt", LITHUANIAN + W10, 0},
   {"lv", "lv", LATVIAN + W10, 0},
@@ -776,7 +776,7 @@ static const TLDLookup kCLDTLDHintTable[kCLDTable3Size] = {
   // {"ky", 0, 0},
   {"kz", KAZAKH + W4, 0},
 
-  {"la", LAOTHIAN + W4, 0},
+  {"la", LOATIAN + W4, 0},
   {"lb", ARABIC + W4, FRENCH + W4},
   // {"lc", 0, 0},
   {"li", GERMAN + W4, 0},

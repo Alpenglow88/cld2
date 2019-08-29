@@ -60,7 +60,7 @@ static const TestPair kTestPair[] = {
   {INUKTITUT, kTeststr_iu_Cans},
   {KANNADA, kTeststr_kn_Knda},
   {KHMER, kTeststr_km_Khmr},
-  {LAOTHIAN, kTeststr_lo_Laoo},
+  {LOATIAN, kTeststr_lo_Laoo},
   {LIMBU, kTeststr_lif_Limb},
   {MALAYALAM, kTeststr_ml_Mlym},
   {MONGOLIAN,  kTeststr_mn_Mong},   // Also in quadgram list below

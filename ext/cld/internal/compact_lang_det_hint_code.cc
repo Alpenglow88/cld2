@@ -194,7 +194,7 @@ static const LangTagLookup kCLDLangTagsHintTable1[kCLDTable1Size] = {
   {"ja-euc", "ja", JAPANESE + W10, 0},      // Japanese encoding
   {"jan-jp", "ja", JAPANESE + W10, 0},      // Japanese encoding
   {"japanese", "ja", JAPANESE + W10, 0},
-  {"javanese", "jw", JAVANESE + W10, 0},
+  {"javanese", "jv", JAVANESE + W10, 0},
 
   {"kannada", "kn", KANNADA + W10, 0},
   {"kashmiri", "ks", KASHMIRI + W10, 0},
@@ -478,8 +478,7 @@ static const LangTagLookup kCLDLangTagsHintTable2[kCLDTable2Size] = {
   {"ja", "ja", JAPANESE + W10, 0},
   {"jp", "ja", JAPANESE + W10, 0},          // Japan
   {"jpn", "ja", JAPANESE + W10, 0},
-  {"jv", "jw", JAVANESE + W10, 0},
-  {"jw", "jw", JAVANESE + W10, 0},
+  {"jv", "jv", JAVANESE + W10, 0},
 
   {"ka", "ka", GEORGIAN + W10, 0},
   {"kc", "qu", QUECHUA + W10, 0},           // (K)Quechua

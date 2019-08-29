@@ -77,7 +77,7 @@ extern const short kAvgDeltaOctaScore[kAvgDeltaOctaScoreSize] = {
   1265,    0,    0,    0,  // 45 ALBANIAN sq
      0,    0,    0, 1024,  // 46 TAMIL ta
      0,  862,    0,    0,  // 47 BELARUSIAN be
-  1031,    0,    0,    0,  // 48 JAVANESE jw
+  1031,    0,    0,    0,  // 48 JAVANESE jv
    701,    0,    0,    0,  // 49 OCCITAN oc
      0,    0,  981,    0,  // 50 URDU ur
      0,    0,    0,  614,  // 51 BIHARI bh

@@ -111,7 +111,7 @@ static const TestPair kTestPair[] = {
   {INDONESIAN, kTeststr_id_Latn},
   {IRISH, kTeststr_ga_Latn},
   {ITALIAN, kTeststr_it_Latn},
-  {JAVANESE, kTeststr_jw_Latn},
+  {JAVANESE, kTeststr_jv_Latn},
   {KINYARWANDA, kTeststr_rw_Latn},
   {LATVIAN, kTeststr_lv_Latn},
   {LITHUANIAN, kTeststr_lt_Latn},

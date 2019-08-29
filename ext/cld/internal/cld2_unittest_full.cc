@@ -148,7 +148,7 @@ static const TestPair kTestPair[] = {
   {IRISH,  kTeststr_ga_Latn},
   {ITALIAN,  kTeststr_it_Latn},
 
-  {JAVANESE,  kTeststr_jw_Latn},
+  {JAVANESE,  kTeststr_jv_Latn},
   {KASHMIRI,  kTeststr_ks_Arab},
   // Not trained {KASHMIRI,  kTeststr_ks_Deva},
   {KAZAKH,  kTeststr_kk_Arab},

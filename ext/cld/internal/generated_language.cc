@@ -74,7 +74,7 @@ extern const char* const kLanguageToName[kLanguageToNameSize] = {
   "ALBANIAN",              // 45 sq
   "TAMIL",                 // 46 ta
   "BELARUSIAN",            // 47 be
-  "JAVANESE",              // 48 jw
+  "JAVANESE",              // 48 jv
   "OCCITAN",               // 49 oc
   "URDU",                  // 50 ur
   "BIHARI",                // 51 bh
@@ -693,7 +693,7 @@ extern const char* const kLanguageToCode[kLanguageToCodeSize] = {
   "sq",    // 45 ALBANIAN
   "ta",    // 46 TAMIL
   "be",    // 47 BELARUSIAN
-  "jw",    // 48 JAVANESE
+  "jv",    // 48 JAVANESE
   "oc",    // 49 OCCITAN
   "ur",    // 50 URDU
   "bh",    // 51 BIHARI
@@ -1312,7 +1312,7 @@ extern const char* const kLanguageToCName[kLanguageToCNameSize] = {
   "ALBANIAN",              // 45 sq
   "TAMIL",                 // 46 ta
   "BELARUSIAN",            // 47 be
-  "JAVANESE",              // 48 jw
+  "JAVANESE",              // 48 jv
   "OCCITAN",               // 49 oc
   "URDU",                  // 50 ur
   "BIHARI",                // 51 bh
@@ -1932,7 +1932,7 @@ extern const FourScripts kLanguageToScripts[kLanguageToScriptsSize] = {
   {ULScript_Latin, None, None, None, },  // 45 sq
   {ULScript_Tamil, None, None, None, },  // 46 ta
   {ULScript_Cyrillic, None, None, None, },  // 47 be
-  {ULScript_Latin, None, None, None, },  // 48 jw
+  {ULScript_Latin, None, None, None, },  // 48 jv
   {ULScript_Latin, None, None, None, },  // 49 oc
   {ULScript_Arabic, None, None, None, },  // 50 ur
   {ULScript_Devanagari, None, None, None, },  // 51 bh
@@ -2552,7 +2552,7 @@ extern const uint8 kLanguageToPLang[kLanguageToPLangSize] = {
    32,  // 45 sq
    15,  // 46 ta
    16,  // 47 be
-   33,  // 48 jw
+   33,  // 48 jv
    34,  // 49 oc
    18,  // 50 ur
    19,  // 51 bh
@@ -4140,7 +4140,6 @@ extern const CharIntPair kNameToLanguage[kNameToLanguageSize] = {
   {"ITALIAN",                7},  // it
   {"Ignore",                25},  // xxx
   {"JAVANESE",              48},  // jv
-  {"JAVANESE",              48},  // jw
   {"Japanese",               8},  // ja
   {"KANNADA",               59},  // kn
   {"KASHMIRI",             142},  // ks
@@ -4440,7 +4439,6 @@ extern const CharIntPair kCodeToLanguage[kCodeToLanguageSize] = {
   {"iw",     6},  // iw
   {"ja",     8},  // ja
   {"jv",    48},  // jv
-  {"jw",    48},  // jw
   {"ka",    75},  // ka
   {"kha",  156},  // kha
   {"kk",   114},  // kk

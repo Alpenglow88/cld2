@@ -16,5 +16,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = CLD::VERSION
 
+  gem.add_dependency "ffi"
+  
   gem.add_development_dependency "rspec", "~> 2.14.1"
 end
